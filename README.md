@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @r-bassi
 - 👀 I’m interested in Software Development, Data Analysis, QA, Artificial Intelligence, and more!
-- 🌱 I’m currently learning about Linear Algebra, Software Engineering, and Artificial Intelligence
+- 🌱 I’m currently learning about Software Engineering, Artificial Intelligence, Probability Statistics, and Applied Industry Skills
 - 📫 How to reach me: rohit.bassi@outlook.com
 
 <!---
