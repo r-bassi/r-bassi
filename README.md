@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @r-bassi
 - 👀 I’m interested in Software Development, Data Analysis, QA, Artificial Intelligence, and Machine Learning.
-- 🌱 I’m currently learning about Advanced Databases, Internet Computing, and Data Visualization!
 - 📫 How to reach me: rohit.bassi@outlook.com
 
 <!---
